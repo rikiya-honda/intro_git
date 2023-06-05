@@ -5,3 +5,4 @@ The second attempt to commit.
 - git commit
 - git rm
 - git status
+- git diff
