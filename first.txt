@@ -3,3 +3,4 @@ Add some comments.
 The second attempt to commit. 
 - git add
 - git commit
+- git rm
